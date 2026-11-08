@@ -5,12 +5,12 @@
 ## Features
 
 - Family groups with custom person icons and colours, plus a combined **Everyone** view.
-- **Pin one default group per device**; the pin is saved locally and is never synced.
+- **Pin one group per device** to place it at the beginning of the tabs (and quick-add group menu); the pin never syncs.
 - Quick-add shopping items, quantities, categories, notes, priority stars and purchase history.
 - Compare **reference** and **found** prices in Mauritian rupees (Rs).
 - Review items every three months, keep them or move them to recoverable Trash.
 - Undo, confirmation dialogs, backup export and careful cloud syncing.
-- Mobile-friendly search and expandable filters, optional sound effects and gentle animations.
+- Mobile profile-photo menu with basket refresh, sound settings, backup and sign-out; compact summary cards, animated loading states, search and expandable filters.
 - Social sharing previews, phone home-screen icons and a web-app manifest.
 
 ## Deployment
