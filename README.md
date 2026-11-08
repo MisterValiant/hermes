@@ -10,7 +10,8 @@
 - Compare **reference** and **found** prices in Mauritian rupees (Rs).
 - Review items every three months, keep them or move them to recoverable Trash.
 - Undo, confirmation dialogs, backup export and careful cloud syncing.
-- Mobile profile-photo menu with basket refresh, sound settings, backup and sign-out; compact summary cards, animated loading states, search and expandable filters.
+- Mobile profile-photo menu with basket refresh, sound settings, backup and sign-out; compact summary cards, search and expandable filters.
+- Branded first-open splash with the Hermes basket icon, animated orbit and glow, and a smooth reveal; small inline loaders remain for later syncing.
 - Social sharing previews, phone home-screen icons and a web-app manifest.
 
 ## Deployment
